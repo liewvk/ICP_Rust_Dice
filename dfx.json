@@ -1,0 +1,33 @@
+{
+  "canisters": {
+    "dice_app_backend": {
+      "type": "custom",
+      "candid": "src/dice_app_backend/dice_app_backend.did",
+      "wasm": "target/wasm32-unknown-unknown/release/dice_app_backend.wasm",
+      "build": "cd src/dice_app_backend && cargo build --target wasm32-unknown-unknown --release"
+    },
+    "dice_app_frontend": {
+      "source": ["src/dice_app_frontend"],
+      "dependencies": [],
+      "type": "assets"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}
+
+
+
+
+
+
+
+
+
+
+

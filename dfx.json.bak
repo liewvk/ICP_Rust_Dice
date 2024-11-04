@@ -1,0 +1,27 @@
+{
+  "canisters": {
+    "dice_app_backend": {
+      "type": "rust",
+      "candid": "src/dice_app_backend/dice_app_backend.did",
+      "wasm": "target/wasm32-unknown-unknown/release/dice_app_backend.wasm"
+    },
+    "dice_app_frontend": {
+      "type": "assets",
+      "source": "src/dice_app_frontend/build"
+    }
+  },
+  "version": 1
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

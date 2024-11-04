@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "src/dice_app_backend"
+    # Add other existing project members if any, or remove this comment
+]
+
+
+
+
+
+

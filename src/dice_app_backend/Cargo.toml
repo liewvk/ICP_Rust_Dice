@@ -1,0 +1,111 @@
+[package]
+name = "dice_app_backend"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+rand = { version = "0.8", default-features = false, features = ["small_rng"] }
+rand_chacha = "0.3"
+serde = { version = "1.0", features = ["derive"] }
+ic-cdk = "0.8.2"
+ic-cdk-macros = "0.8.4"
+candid = "0.8.4"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

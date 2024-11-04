@@ -1,0 +1,20 @@
+/root/icp/dice_rust/dice_app/target/release/deps/librustversion-e9dd3405605ffa74.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/version.rs /root/icp/dice_rust/dice_app/target/release/build/rustversion-8346162427401354/out/version.expr
+
+/root/icp/dice_rust/dice_app/target/release/deps/rustversion-e9dd3405605ffa74.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/version.rs /root/icp/dice_rust/dice_app/target/release/build/rustversion-8346162427401354/out/version.expr
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/bound.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/constfn.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/date.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/expr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/release.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/time.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/token.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.18/src/version.rs:
+/root/icp/dice_rust/dice_app/target/release/build/rustversion-8346162427401354/out/version.expr:
+
+# env-dep:OUT_DIR=/root/icp/dice_rust/dice_app/target/release/build/rustversion-8346162427401354/out

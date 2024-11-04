@@ -1,0 +1,23 @@
+type HttpHeader = record {
+  name: text;
+  value: text;
+};
+
+type HttpResponse = record {
+  status: nat16;
+  headers: vec HttpHeader;
+  body: blob;
+  streaming_strategy: opt variant {
+    Callback: record {
+      token: reserved;
+      callback: reserved;
+    }
+  };
+};
+
+service : {
+  "http_request": () -> (HttpResponse) query;
+  "roll_dice": () -> (record { value: nat8 });
+}
+
+
