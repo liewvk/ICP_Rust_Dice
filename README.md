@@ -1,6 +1,7 @@
 # `dice_app`
 
-Welcome to your new `dice_app` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to our `dice_app` project. This project creates an animated dice that simulates the rolling of a dice. However, to see the frontend UI, you may only run it in the local environment using the command <bold> npm run dev</bold> by accesing the localhost http://localhost:3000/.
+
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
