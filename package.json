@@ -4,18 +4,25 @@
     "npm": ">=7.0.0"
   },
   "name": "dice_app",
+  "version": "1.0.0",
   "scripts": {
-    "build": "npm run build --workspaces --if-present",
-    "prebuild": "npm run prebuild --workspaces --if-present",
-    "pretest": "npm run prebuild --workspaces --if-present",
-    "start": "npm start --workspaces --if-present",
-    "test": "npm test --workspaces --if-present"
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "start": "vite preview --port 3000"
   },
   "type": "module",
   "workspaces": [
     "src/dice_app_frontend"
   ],
   "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "web3": "^4.14.0"
+  },
+  "devDependencies": {
+     "vite": "^4.5.0",
+  "@vitejs/plugin-react": "^4.3.3"
   }
 }
+
+

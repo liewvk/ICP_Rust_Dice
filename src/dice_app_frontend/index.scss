@@ -1,0 +1,15 @@
+.dice-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.dice {
+  font-size: 100px;
+  display: inline-block;
+  transition: transform 0.5s;
+}
+
+.rolling {
+  transform: rotate(360deg);
+}
+

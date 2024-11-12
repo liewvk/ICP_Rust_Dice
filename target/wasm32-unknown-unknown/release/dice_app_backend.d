@@ -1,1 +1,1 @@
-/root/icp/dice_rust/dice_app/target/wasm32-unknown-unknown/release/dice_app_backend.wasm: /root/icp/dice_rust/dice_app/src/dice_app_backend/src/lib.rs
+/root/icp/dice_rust/dice_app/target/wasm32-unknown-unknown/release/dice_app_backend.wasm: /root/icp/dice_rust/dice_app/src/dice_app_backend/dice_app_backend.did /root/icp/dice_rust/dice_app/src/dice_app_backend/src/lib.rs
