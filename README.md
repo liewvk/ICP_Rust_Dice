@@ -1,6 +1,6 @@
 # `dice_app`
 
-Welcome to our `dice_app` project. This project creates an animated dice that simulates the rolling of a dice. However, to see the frontend UI, you may only run it in the local environment using the command <bold> npm run dev</bold> by accesing the localhost http://localhost:3000/.
+Welcome to our `dice_app` project. This project creates an animated dice that simulates the rolling of a dice. However, to see the frontend UI, you may only run it in the local environment using the command <strong> npm run dev</strong> by accesing the localhost http://localhost:3000/.
 
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
